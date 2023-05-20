@@ -10,11 +10,11 @@
 
 App 很简单，就两个 View，点击屏幕下方的那个按钮就能开始“心动”，右上方有设置的按钮，可以调节一些参数，例如心动对象的名字，以及心动频率和心跳强度。
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-20 at 10 25 58](https://github.com/created4u/heartbeat/assets/128155343/311b6a3c-4941-4533-a2c2-021c410c968f)
+<img src="https://github.com/created4u/heartbeat/assets/128155343/311b6a3c-4941-4533-a2c2-021c410c968f" width="600" height="1300" />
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-20 at 10 26 18](https://github.com/created4u/heartbeat/assets/128155343/8f4b9cfa-bf20-4546-b07a-7dfa4ba1bd4a)
+<img src="https://github.com/created4u/heartbeat/assets/128155343/8f4b9cfa-bf20-4546-b07a-7dfa4ba1bd4a" width="600" height="1300" />
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-05-20 at 10 26 25](https://github.com/created4u/heartbeat/assets/128155343/1defde93-b8ee-411d-8df5-5e26d71c188b)
+<img src="https://github.com/created4u/heartbeat/assets/128155343/1defde93-b8ee-411d-8df5-5e26d71c188b" width="600" height="1300" />
 
 ## 还需要一些改进和创新的想法
 
